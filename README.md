@@ -7,4 +7,4 @@
 
 
 
-<img align= "center" img src="https://64.media.tumblr.com/tumblr_lzihsbHRAc1qgwqw9o1_500.gif"/>
+<img width= "800px" height= "500px" img src="https://64.media.tumblr.com/tumblr_lzihsbHRAc1qgwqw9o1_500.gif"/>
