@@ -3,7 +3,6 @@
 
 ## Meus Links:
 LinkedIn: https://tinyurl.com/NasserLinkedIN
-Email : Beto_Nasser@hotmail.com
 
 :cherries: "Hello World!"
 
