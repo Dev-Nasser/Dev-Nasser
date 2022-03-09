@@ -1,12 +1,12 @@
 
 # Estudante de Programação
-# Front - End no céu e Pyyhon na veia
+## Front - End 
 ## Meus Links:
 LinkedIn: https://tinyurl.com/NasserLinkedIN
 
-:cherries: "Hello World!
+:black_heart: "Hello World!
 
-:cherries: "Python language beginner"
+:blue_heart:: "Front-end Jr"
 
 :earth_americas:  "From Brazil"
 
