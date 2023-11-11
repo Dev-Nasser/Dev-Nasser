@@ -27,7 +27,6 @@ LinkedIn: https://tinyurl.com/NasserLinkedIN
 
 
 
-<img width= "400px" height= "500px" img src="https://i.pinimg.com/originals/3c/6a/5b/3c6a5ba98a49b2f862dcce0afc92da2b.gif"/>
 
 
 
