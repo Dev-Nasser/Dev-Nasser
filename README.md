@@ -9,6 +9,8 @@ LinkedIn: https://tinyurl.com/NasserLinkedIN
 :blue_heart:: "Front-end Jr"
 
 :earth_americas:  "From Brazil"
+<img width= "400px" height= "500px" img src="https://i.pinimg.com/originals/3c/6a/5b/3c6a5ba98a49b2f862dcce0afc92da2b.gif"/>
+#Coração preto e branco, corinthians até a morte
 
 
 # Linguagens back-end
@@ -23,7 +25,7 @@ LinkedIn: https://tinyurl.com/NasserLinkedIN
 
 
 
-<img width= "400px" height= "500px" img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif"/>
+<img width= "400px" height= "500px" img src="https://i.pinimg.com/originals/3c/6a/5b/3c6a5ba98a49b2f862dcce0afc92da2b.gif"/>
 
 
 
