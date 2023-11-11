@@ -11,7 +11,7 @@ LinkedIn: https://tinyurl.com/NasserLinkedIN
 :earth_americas:  "From Brazil"
 
 
-<img width= "400px" height= "500px" img src="https://i.pinimg.com/originals/3c/6a/5b/3c6a5ba98a49b2f862dcce0afc92da2b.gif"/>
+<img width= "200px" height= "200px" img src="https://i.pinimg.com/originals/3c/6a/5b/3c6a5ba98a49b2f862dcce0afc92da2b.gif"/>
 #Coração preto e branco, corinthians até a morte
 
 
