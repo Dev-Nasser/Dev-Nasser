@@ -1,6 +1,6 @@
 
-# Estudante de Programação
-## Front - End 
+# Estudante de Analise e Desenvolvimento de Sistemas
+## Full-Stack em formação
 ## Meus Links:
 LinkedIn: https://tinyurl.com/NasserLinkedIN
 
@@ -11,6 +11,8 @@ LinkedIn: https://tinyurl.com/NasserLinkedIN
 :earth_americas:  "From Brazil"
 
 [![Dev-Nasser GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Nasser)](https://github.com/Dev-Nasser/github-readme-stats)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 <img width= "400px" height= "500px" img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif"/>
